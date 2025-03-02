@@ -1,4 +1,5 @@
-![MasterHead](https://ppiconsulting.dev/assets/img/posts/all.gif)
+![MasterHead](https://i.gifer.com/SRL3.gif)
+
 
 <h1 align="center">Hi 👋, I'm Gopal Dutta</h1>
 <h3 align="center">🚀 AI & ML Enthusiast | Software Developer | Tech Explorer</h3>
