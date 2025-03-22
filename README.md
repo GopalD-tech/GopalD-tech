@@ -15,7 +15,7 @@
 ## 🚀 About Me  
 🎓 **B.Tech CSE (2nd Year)** | Passionate about **AI, ML & System Design**  
 🤖 Currently Learning **Machine Learning, Data Structures & Algorithms (DSA)**  
-🏆 Published **Researcher (Springer)** | **Hackathon Competitor**  
+🏆 Published **Researcher (Springer)** | **Winner in HACK-O-NiT Hackathon**  
 🔍 Exploring **Software Development & AI Research**  
 ⚡ Fun Fact: **I love coffee ☕ & debugging bugs 🐞**  
 
